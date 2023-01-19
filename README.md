@@ -7,6 +7,7 @@ Docente: Prof. Cuno Lorenz Klopfenstein
 Gennaio 2023
 ## Idea e scopo dell'applicazione
 Il progetto consiste nella realizzazione di un'applicazione web per l’ordinazione di pasti e bevande e di un'applicazione Android per la visualizzazione e l'eliminazione di queste ultime.
+
 L'applicativo web dovrà consentire:
 * La selezione delle pietanze desiderate.
 * La rimozione di pietanze che precedentemente erano state selezionate.
