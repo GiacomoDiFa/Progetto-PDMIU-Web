@@ -1,0 +1,50 @@
+[
+    {
+      "name": "Acqua naturale",
+      "description": "Acqua naturale.",
+      "price": 2.00,
+      "image": "assets/acquanaturale.jpg"
+    },
+    {
+      "name": "Acqua Frizzante",
+      "description": "Acqua frizzante.",
+      "price": 2.00,
+      "image":"assets/acquafrizzante.jpg"
+    },
+    {
+      "name": "Birra",
+      "description": "Birra.",
+      "price": 3.50,
+      "image":"assets/birra.jpg"
+    },
+    {
+      "name": "Calice di vino rosso",
+      "description": "Calice di vino rosso.",
+      "price": 4.00,
+      "image":"assets/vinorosso.jpg"
+    },
+    {
+        "name": "Calice di vino bianco",
+        "description": "Calice di vino bianco.",
+        "price": 4.00,
+        "image":"assets/vinobianco.jpg"
+    },
+    {
+        "name": "Coca cola",
+        "description": "Coca cola.",
+        "price": 2.50,
+        "image":"assets/cocacola.jpg"
+    },
+    {
+        "name": "Coca cola zero",
+        "description": "Coca cola zero.",
+        "price": 2.50,
+        "image":"assets/cocacolazero.jpeg"
+    },
+    {
+        "name": "Fanta",
+        "description": "Fanta.",
+        "price": 2.50,
+        "image":"assets/fanta.webp"
+    }
+  ]

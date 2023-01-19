@@ -1,0 +1,26 @@
+[
+    {
+      "name": "HotDog",
+      "description": "HotDog, ketchup e maionese.",
+      "price": 4.00,
+      "image": "assets/hotdog.jpg"
+    },
+    {
+      "name": "Chicken Burger",
+      "description": "Burger di pollo, insalata, pomodoro, formaggio fuso, ketchup e maionese.",
+      "price": 6.00,
+      "image":"assets/chickenburger.jpg"
+    },
+    {
+      "name": "Hamburger",
+      "description": "Hamburger, insalata, pomodoro, formaggio fuso, ketchup e maionese.",
+      "price": 6.00,
+      "image":"assets/hamburger.webp"
+    },
+    {
+      "name": "Bacon Burger",
+      "description": "Hamburger, bacon croccante, insalata, pomodoro, formaggio fuso, cipolla caramellata, ketchup e maionese.",
+      "price": 8.00,
+      "image":"assets/baconburger.jpg"
+    }
+  ]

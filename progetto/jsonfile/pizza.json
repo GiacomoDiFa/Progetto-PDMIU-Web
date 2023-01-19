@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Margherita",
+    "description": "Pomodoro e mozzarella.",
+    "price": 6.00,
+    "image": "assets/margherita.webp"
+  },
+  {
+    "name": "Peperoni e salsiccia",
+    "description": "Pomodoro, mozzarella, peperoni e salsiccia.",
+    "price": 7.00,
+    "image":"assets/peperoni_e_salsiccia.jpeg"
+  },
+  {
+    "name": "Patate e salsiccia",
+    "description": "Mozzarella, patate e salsiccia.",
+    "price": 8.00,
+    "image":"assets/patate_e_salsiccia.jpg"
+  },
+  {
+    "name": "Tonno e cipolla",
+    "description": "Pomodoro, mozzarella, tonno e cipolla.",
+    "price": 10.00,
+    "image":"assets/tonno_e_cipolla.jpg"
+  },
+  {
+    "name": "Capricciosa",
+    "description": "Pomodoro, mozzarella, prosciutto cotto, funghi, olive verdi e nere e carciofini.",
+    "price": 10.00,
+    "image":"assets/capricciosa.jpg"
+  },
+  {
+    "name": "Olive",
+    "description": "Pomodoro, mozzarella, olive verdi e nere.",
+    "price": 7.00,
+    "image": "assets/olive.jpg"
+  }
+]
