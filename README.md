@@ -50,7 +50,9 @@ Durante il processo di selezione verrà mostrata per ogni tipologia di cibo la s
 
 
 
-https://user-images.githubusercontent.com/73546258/213479607-6c28740a-22b0-4e63-9fe5-56614ca64fb5.mp4
+https://user-images.githubusercontent.com/73546258/213666288-2b79053e-d8fd-49cb-9630-680dd5e17e53.mp4
+
+
 
 In queste schermate risulta possibile per l'utente:
 * Selezionare le pietanze che desidera cliccando il bottone "Aggiungi all'ordine".
@@ -70,7 +72,10 @@ Il carrello permette di:
 
 
 
-https://user-images.githubusercontent.com/73546258/213481936-2bd3ec34-e09e-4ae2-b9e8-2c2619d8759f.mp4
+
+https://user-images.githubusercontent.com/73546258/213666501-55626613-7afb-45fe-8a62-a4c35896e47a.mp4
+
+
 
 
 Infine come ultima schermata (una volta effettuato e confermato l'ordine) abbiamo la seguente:
