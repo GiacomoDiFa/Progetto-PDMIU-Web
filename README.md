@@ -53,6 +53,14 @@ Durante il processo di selezione verrà mostrata per ogni tipologia di cibo la s
 
 
 
+https://user-images.githubusercontent.com/73546258/213669549-07ba01a7-f715-40a4-a228-0875b2842452.mp4
+
+
+
+
+
+
+
 
 In queste schermate risulta possibile per l'utente:
 * Selezionare le pietanze che desidera cliccando il bottone "Aggiungi all'ordine".
