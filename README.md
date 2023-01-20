@@ -50,7 +50,7 @@ Durante il processo di selezione verrà mostrata per ogni tipologia di cibo la s
 
 
 
-https://user-images.githubusercontent.com/73546258/213666288-2b79053e-d8fd-49cb-9630-680dd5e17e53.mp4
+
 
 
 
@@ -72,8 +72,12 @@ Il carrello permette di:
 
 
 
+https://user-images.githubusercontent.com/73546258/213668337-1da416d2-1819-4714-9649-778212354c06.mp4
 
-https://user-images.githubusercontent.com/73546258/213666501-55626613-7afb-45fe-8a62-a4c35896e47a.mp4
+
+
+
+
 
 
 
